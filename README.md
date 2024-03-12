@@ -7,4 +7,5 @@ then from anywhere run
 
 or you can run
 > pdf2img.bat <pdf_file_name> --nodir
+
 to not save images inside another folder and save them in the same directory
