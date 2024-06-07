@@ -2,6 +2,9 @@
 
 First run setup.py file (to add this folder to your environment variables)
 
+Also complete the process mentioned in this link
+https://stackoverflow.com/a/53960829
+
 then from anywhere run
 > pdf2img.bat <pdf_file_name>
 
